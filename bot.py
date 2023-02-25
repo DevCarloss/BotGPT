@@ -61,5 +61,5 @@ async def helper(ctx):
     embed.set_footer(text="OpenAI")
     await ctx.send(embed=embed)
 
-    
-bot.run(os.getenv("BOTTOKEN"))
+if __name__ == '__main__':
+    bot.run(os.getenv("BOTTOKEN"))
