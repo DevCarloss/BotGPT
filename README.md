@@ -1,5 +1,5 @@
 # BotGPT
-BotGPT É Um Bot Discord Que Ultiliza API OpenAI Para Retornar Resultados
+O Bot do Discord que utiliza a API do OpenAI é uma ferramenta poderosa que pode ajudá-lo em diversas tarefas relacionadas à programação
 # O que é Chat OpenAI?
 O Chat GPT é uma ferramenta conversacional online que pode ser acessada por meio do seu site oficial: chat.openai.com. Ele funciona a partir de uma base de conhecimento atualizada que permite decodificar palavras para oferecer respostas textuais às pessoas.
 # Tutorial de Instalação
