@@ -23,6 +23,8 @@ Dê ao seu software uma interface de linguagem natural<br>
 Tutor em uma variedade de assuntos<br>
 Traduzir idiomas<br>
 Simular personagens para videogames e muito mais<br>
+/ia_textcompletion<br>
+Para  gerar ou manipular textos
 
 
 
